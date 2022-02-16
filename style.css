@@ -37,6 +37,9 @@ ul{ list-style: none; }
     text-shadow: #0b0b0b 1px 1px 1px;
 
 }
+.nav {
+    margin-top: 10px;
+}
 
 .nav-content{
     display: flex;
