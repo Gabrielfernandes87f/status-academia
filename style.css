@@ -9,6 +9,9 @@ ul{ list-style: none; }
     background: #fff;
     
 }
+html{
+    background: rgba(99, 172, 4, 0.829);
+}
 
 .banner-header{
     width: 100%;
@@ -74,4 +77,8 @@ ul{ list-style: none; }
     font-weight: bold;
     padding: 5px;
 
+}
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
 }
